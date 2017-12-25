@@ -11,12 +11,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.17.1",
     "better-scroll": "^1.6.2",
     "chinese-to-pinyin": "^0.1.6",
-    "han": "0.0.7",
     "normalize.css": "^7.0.0",
-    "pinyin": "^2.8.3",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vue-scroller": "^2.2.4"
